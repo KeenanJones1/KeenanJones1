@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Keenan Jones</h1>
+![Spiderman Dance](https://media.giphy.com/media/8zYunr3Hg8XPq/giphy.gif)
 <h3 align="center">Your friendly neighborhood developer from Chicago</h3>
 
 - 🔭 I’m currently working on [The Movie Zone](https://github.com/KeenanJones1/MovieZone-FE)
