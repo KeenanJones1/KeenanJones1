@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-   ![Spiderman Dance](https://media.giphy.com/media/8zYunr3Hg8XPq/giphy.gif)
+<p align="center">
+  <img width="200" src="https://media.giphy.com/media/8zYunr3Hg8XPq/giphy.gif" alt="Spiderman Dance">
+</p>
    
 <h3 align="center">Your friendly neighborhood developer from Chicago</h3>
 
