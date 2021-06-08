@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![Spiderman Dance](https://media.giphy.com/media/8zYunr3Hg8XPq/giphy.gif)
+<p align="center">
+   ![Spiderman Dance](https://media.giphy.com/media/8zYunr3Hg8XPq/giphy.gif)
+</p>
+
 <h3 align="center">Your friendly neighborhood developer from Chicago</h3>
 
 - 🔭 I’m currently working on [The Movie Zone](https://github.com/KeenanJones1/MovieZone-FE)
