@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [The Movie Zone](https://github.com/KeenanJones1/MovieZone-FE)
 
-- 🌱 I’m currently learning **Algorithms and React testing frameworks**
+- 🌱 I’m currently learning **Algorithms and Docker**
 
 - 👨‍💻 All of my projects are available at [https://keenan-jones.netlify.app/](https://keenan-jones.netlify.app/)
 
