@@ -6,15 +6,15 @@
    
 <h3 align="center">Your friendly neighborhood developer from Chicago</h3>
 
-- 🔭 I’m currently working on [The Movie Zone](https://github.com/KeenanJones1/MovieZone-FE)
+- 🔭 I’m currently working on [Local Library](https://github.com/KeenanJones1/local-library)
 
-- 🌱 I’m currently learning **Algorithms and Docker**
+- 🌱 I’m currently learning **Regular Expressions and Docker**
 
 - 👨‍💻 All of my projects are available at [https://keenan-jones.netlify.app/](https://keenan-jones.netlify.app/)
 
 - 📝 I regularly write articles on [https://keenan-jones.netlify.app/blog](https://keenan-jones.netlify.app/blog)
 
-- 💬 Ask me about **React, Python, and Ruby on Rails**
+- 💬 Ask me about **Javascript, Python, and Ruby on Rails**
 
 - 📫 How to reach me **keenanjones210@gmail.com**
 
