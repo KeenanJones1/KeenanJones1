@@ -4,7 +4,7 @@
   <img width="700" src="https://media.giphy.com/media/8zYunr3Hg8XPq/giphy.gif" alt="Spiderman Dance">
 </p>
    
-<h3 align="center">Your friendly neighborhood developer from Chicago</h3>
+<h3 align="center">Your friendly neighborhood developer</h3>
 
 - 🔭 I’m currently working on [Local Library](https://github.com/KeenanJones1/local-library)
 
